@@ -296,6 +296,7 @@ Once you have those, you should install these globals with `npm install --global
 - `typescript` (`$ npm install --global typescript`)
 - `concurrently` (`$ npm install --global concurrently`)
 - `mocha` (`$ npm install --global mocha`)
+- `lodash` (`$ npm install -g lodash`)
 
 ## Installing
 
